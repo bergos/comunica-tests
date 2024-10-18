@@ -17,8 +17,8 @@
   },
   "homepage": "https://github.com/bergos/comunica-tests",
   "dependencies": {
-    "@comunica/bindings-factory": "^3.3.0",
-    "@comunica/query-sparql-rdfjs": "^3.3.0",
+    "@comunica/bindings-factory": "^2.10.1",
+    "@comunica/query-sparql-rdfjs": "^2.10.2",
     "rdf-ext": "^2.5.2",
     "rdf-store-dataset": "^1.0.0",
     "stream-chunks": "^1.0.0"
